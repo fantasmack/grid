@@ -26,7 +26,7 @@ body{
 
 
 /*Hasta iphone 6 plus*/
-@media (min-width: 320px) and (max-width: 736px) {
+@media (max-width: 736px) {
   .container { width: 90%; }
   .sm-1 {width: 8.33%;}
   .sm-2 {width: 16.66%;}
